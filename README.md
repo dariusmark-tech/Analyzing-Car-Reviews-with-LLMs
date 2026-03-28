@@ -1,4 +1,4 @@
-# 🚗 Car-ing is Sharing — LLM Chatbot Prototype
+# Car-ing is Sharing — LLM Chatbot Prototype
 
 A multi-task NLP prototype built for **Car-ing is Sharing**, an auto dealership company, using pre-trained Hugging Face LLMs to handle diverse customer inquiries.
 
@@ -10,7 +10,7 @@ The CTO commissioned this prototype to explore how Large Language Models can aut
 
 ---
 
-## 🧠 Tasks Implemented
+## Tasks Implemented
 
 ### Task 1 — Sentiment Classification
 - **Model:** `distilbert-base-uncased-finetuned-sst-2-english`
