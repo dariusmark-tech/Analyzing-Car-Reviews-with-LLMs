@@ -44,7 +44,7 @@ The CTO commissioned this prototype to explore how Large Language Models can aut
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /data/
