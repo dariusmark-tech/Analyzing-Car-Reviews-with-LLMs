@@ -94,7 +94,7 @@ The `car_reviews.csv` file is semicolon-separated with two columns:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 | Library | Purpose |
 |---------|---------|
