@@ -4,7 +4,7 @@ A multi-task NLP prototype built for **Car-ing is Sharing**, an auto dealership 
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 The CTO commissioned this prototype to explore how Large Language Models can automate and enhance customer-facing and agent-support tasks. The solution processes car reviews and demonstrates four core NLP capabilities.
 
