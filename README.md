@@ -85,7 +85,7 @@ The `car_reviews.csv` file is semicolon-separated with two columns:
 
 ---
 
-## 🔑 Key Implementation Notes
+## Key Implementation Notes
 
 - CSV uses **semicolon** (`;`) as delimiter — load with `pd.read_csv(..., sep=";")`
 - BLEU score uses the `evaluate` library's `.compute()` method which returns a **dictionary**
